@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Rest As Awareness",
+    pageTitle: "./IMAGES/RAALogo.png",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
